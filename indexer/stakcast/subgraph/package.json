@@ -24,7 +24,7 @@
     "eslint": "^9.32.0",
     "eslint-config-prettier": "^6.1.0",
     "prettier": "^1.18.2",
-    "protoc-gen-js": "^3.21.2",
+    "protoc-gen-js": "^4.0.2",
     "protocol-buffers": "^5.0.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.7.1",
