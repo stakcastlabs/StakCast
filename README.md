@@ -31,7 +31,7 @@ Stake  tokens on your predictions and earn rewards when you're right.
 Fully transparent and decentralized prediction markets powered by blockchain.
 
 ### 🔒 Secure Staking
-Your STRK tokens are securely locked in smart contracts during predictions.
+Your XLM tokens are securely locked in smart contracts during predictions.
 
 ### 📊 Real-Time Markets
 Access live prediction markets for news, events, and outcomes.
@@ -39,13 +39,13 @@ Access live prediction markets for news, events, and outcomes.
 ## 🔄 How StakCast Works
 
 1️⃣ **Connect Wallet**  
-   Link your wallet and ensure you have STRK tokens ready for staking.
+   Link your wallet and ensure you have XLM tokens ready for staking.
 
 2️⃣ **Choose a Market**  
    Browse through available prediction markets and select one that interests you.
 
 3️⃣ **Make Prediction**  
-   Stake your STRK tokens on your predicted outcome.
+   Stake your XLM tokens on your predicted outcome.
 
 4️⃣ **Earn Rewards**  
    If your prediction is correct, claim your rewards automatically.
